@@ -1,0 +1,7 @@
+F:\SLNS\7ZipConsole\7ZipConsole\bin\Debug\7ZipConsole.exe.config
+F:\SLNS\7ZipConsole\7ZipConsole\bin\Debug\7ZipConsole.exe
+F:\SLNS\7ZipConsole\7ZipConsole\bin\Debug\7ZipConsole.pdb
+F:\SLNS\7ZipConsole\7ZipConsole\obj\Debug\7ZipConsole.csproj.CoreCompileInputs.cache
+F:\SLNS\7ZipConsole\7ZipConsole\obj\Debug\7ZipConsole.exe
+F:\SLNS\7ZipConsole\7ZipConsole\obj\Debug\7ZipConsole.pdb
+F:\SLNS\7ZipConsole\7ZipConsole\obj\Debug\7ZipConsole.csprojAssemblyReference.cache
